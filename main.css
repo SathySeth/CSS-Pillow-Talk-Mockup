@@ -55,8 +55,9 @@ header div {
     margin-bottom: 20px;
 }
 
-header h1 {
+header div h1 {
     text-align: left;
+    width: 100%;
 }
 
 header div:last-child {
